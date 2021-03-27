@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>active on Violet Ka I Pun</title>
+    <link>https://violetpun.github.io/tags/active/</link>
+    <description>Recent content in active on Violet Ka I Pun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://violetpun.github.io/tags/active/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SLAS: Synchronous Languages meet Asynchronous Semantics</title>
+      <link>https://violetpun.github.io/project/slas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/slas/</guid>
+      <description>AURORA mobility programme between Norway and France, partially funded by the Research Council of Norway.</description>
+    </item>
+    
+    <item>
+      <title>INTROMAT: INTROducing Mental health through Adaptive Technology</title>
+      <link>https://violetpun.github.io/project/intromat/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/intromat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Refactoring: Runtime Verification beyond Monitoring</title>
+      <link>https://violetpun.github.io/project/refactoring/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIRIUS: Centre for Scalable Data Access in the Oil and Gas Domain</title>
+      <link>https://violetpun.github.io/project/sirius/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/sirius/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

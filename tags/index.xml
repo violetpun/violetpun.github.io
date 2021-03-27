@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Violet Ka I Pun</title>
+    <link>https://violetpun.github.io/tags/</link>
+    <description>Recent content in Tags on Violet Ka I Pun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://violetpun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>active</title>
+      <link>https://violetpun.github.io/tags/active/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/tags/active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>completed</title>
+      <link>https://violetpun.github.io/tags/completed/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/tags/completed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

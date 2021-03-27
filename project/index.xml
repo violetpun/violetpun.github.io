@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Violet Ka I Pun</title>
+    <link>https://violetpun.github.io/project/</link>
+    <description>Recent content in Projects on Violet Ka I Pun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://violetpun.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SLAS: Synchronous Languages meet Asynchronous Semantics</title>
+      <link>https://violetpun.github.io/project/slas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/slas/</guid>
+      <description>AURORA mobility programme between Norway and France, partially funded by the Research Council of Norway.</description>
+    </item>
+    
+    <item>
+      <title>INTROMAT: INTROducing Mental health through Adaptive Technology</title>
+      <link>https://violetpun.github.io/project/intromat/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/intromat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Refactoring: Runtime Verification beyond Monitoring</title>
+      <link>https://violetpun.github.io/project/refactoring/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COEMS: Continuous Observation of Embedded Multicore Systems</title>
+      <link>https://violetpun.github.io/project/coems/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/coems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIRIUS: Centre for Scalable Data Access in the Oil and Gas Domain</title>
+      <link>https://violetpun.github.io/project/sirius/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/sirius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARVI: Runtime Verification beyond Monitoring</title>
+      <link>https://violetpun.github.io/project/arvi/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/arvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UpScale: From Inherent Concurrency to Massive Parallelism through Type-based Optimizations</title>
+      <link>https://violetpun.github.io/project/upscale/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/upscale/</guid>
+      <description>UpScale was an EU FP7 FET Open-X research project.  The project aims at making use of the manycore computers of tomorrow as efficient as possible.</description>
+    </item>
+    
+    <item>
+      <title>Envisage: Engineering Virtualized Services</title>
+      <link>https://violetpun.github.io/project/envisage/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/envisage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoRETech: Go Runtime Enforcement Techniques</title>
+      <link>https://violetpun.github.io/project/goretech/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/goretech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RvABS: Runtime Verification for ABS Product Lines</title>
+      <link>https://violetpun.github.io/project/rvabs/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/project/rvabs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Violet Ka I Pun</title>
+    <link>https://violetpun.github.io/publication_types/7/</link>
+    <description>Recent content in 7 on Violet Ka I Pun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://violetpun.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proceedings of 17th International Colloquium on Theoretical Aspects of Computing</title>
+      <link>https://violetpun.github.io/publication/ictac20/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/ictac20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

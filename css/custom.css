@@ -1,0 +1,64 @@
+/* Profile */
+#profile .portrait-title h2 {
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #000000;
+  margin: 20px 0 10px 0;
+}
+
+#profile .portrait-title h3 {
+  font-size: 0.83rem;
+  font-weight: 300;
+  color: rgba(0,0,0, 0.54);
+  margin: 0px 0 10px 0;
+}
+
+#profile ul.network-icon {
+  margin-top: 20px;
+}
+
+/* Font size */
+h1 {
+  font-size: 1.75rem;
+}
+
+body {
+    font-size: 18px;
+} 
+
+
+/* hyperlink */
+a {
+  color: #0090E3;
+}
+
+a:hover,
+a:focus {
+  color: #ffffff;
+  background-color: #0090E3;
+  text-decoration: none;
+  transition: color 0.1s ease;  
+}
+
+#profile .network-icon a:hover {
+  color: #0090E3;    
+  background: #ffffff;  
+  background-color: #ffffff;
+}
+
+/* Projects */
+#projects.home-section .project-summary {
+  font-size: 0.8rem;
+  color: rgba(0,0,0, 0.54);
+  margin-bottom: 0.2rem;
+}
+
+#projects.home-section .project-title {
+    font-weight: bold;  
+  margin-bottom: 6px;
+}
+
+/* Navigation bar */
+nav#navbar-main li {
+  font-size: {{ .Get "font_size_small" }}px;
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Violet Ka I Pun</title>
+    <link>https://violetpun.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Violet Ka I Pun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://violetpun.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Formal Model of Data Access for Multicore Architectures with Multilevel Caches</title>
+      <link>https://violetpun.github.io/publication/mc-scp/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/mc-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Analysis of Actor Programs</title>
+      <link>https://violetpun.github.io/publication/time-actor-jlamp/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/time-actor-jlamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Cost Analysis</title>
+      <link>https://violetpun.github.io/publication/parallel-cost-tcl/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/parallel-cost-tcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect-polymorphic behaviour inference for deadlock checking</title>
+      <link>https://violetpun.github.io/publication/deadlocks-effect/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/deadlocks-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deadlock Checking by Data Race Detection</title>
+      <link>https://violetpun.github.io/publication/deadlocks-race/</link>
+      <pubDate>Wed, 13 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/deadlocks-race/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key performance indicators for traffic intensive web‐enabled business processes</title>
+      <link>https://violetpun.github.io/publication/bprocess-kpi/</link>
+      <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/bprocess-kpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deadlock Checking by a Behavioral Effect System for Lock Handling</title>
+      <link>https://violetpun.github.io/publication/deadlocks-checking/</link>
+      <pubDate>Tue, 06 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/deadlocks-checking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

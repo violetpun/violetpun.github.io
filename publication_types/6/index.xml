@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Violet Ka I Pun</title>
+    <link>https://violetpun.github.io/publication_types/6/</link>
+    <description>Recent content in 6 on Violet Ka I Pun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://violetpun.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SymPaths: Symbolic Execution Meets Partial Order Reduction</title>
+      <link>https://violetpun.github.io/publication/sympath-key/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/sympath-key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting Deadlines, Elastically</title>
+      <link>https://violetpun.github.io/publication/meeting-deadlines/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetpun.github.io/publication/meeting-deadlines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
