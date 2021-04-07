@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>completed on Violet Ka I Pun</title>
-    <link>https://violetpun.github.io/tags/completed/</link>
+    <link>https://violet.foldr.org/tags/completed/</link>
     <description>Recent content in completed on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Wed, 22 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://violetpun.github.io/tags/completed/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://violet.foldr.org/tags/completed/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>COEMS: Continuous Observation of Embedded Multicore Systems</title>
-      <link>https://violetpun.github.io/project/coems/</link>
+      <link>https://violet.foldr.org/project/coems/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/project/coems/</guid>
+      <guid>https://violet.foldr.org/project/coems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARVI: Runtime Verification beyond Monitoring</title>
-      <link>https://violetpun.github.io/project/arvi/</link>
+      <link>https://violet.foldr.org/project/arvi/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/project/arvi/</guid>
+      <guid>https://violet.foldr.org/project/arvi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UpScale: From Inherent Concurrency to Massive Parallelism through Type-based Optimizations</title>
-      <link>https://violetpun.github.io/project/upscale/</link>
+      <link>https://violet.foldr.org/project/upscale/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/project/upscale/</guid>
+      <guid>https://violet.foldr.org/project/upscale/</guid>
       <description>UpScale was an EU FP7 FET Open-X research project.  The project aims at making use of the manycore computers of tomorrow as efficient as possible.</description>
     </item>
     
     <item>
       <title>Envisage: Engineering Virtualized Services</title>
-      <link>https://violetpun.github.io/project/envisage/</link>
+      <link>https://violet.foldr.org/project/envisage/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/project/envisage/</guid>
+      <guid>https://violet.foldr.org/project/envisage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GoRETech: Go Runtime Enforcement Techniques</title>
-      <link>https://violetpun.github.io/project/goretech/</link>
+      <link>https://violet.foldr.org/project/goretech/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/project/goretech/</guid>
+      <guid>https://violet.foldr.org/project/goretech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RvABS: Runtime Verification for ABS Product Lines</title>
-      <link>https://violetpun.github.io/project/rvabs/</link>
+      <link>https://violet.foldr.org/project/rvabs/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/project/rvabs/</guid>
+      <guid>https://violet.foldr.org/project/rvabs/</guid>
       <description></description>
     </item>
     

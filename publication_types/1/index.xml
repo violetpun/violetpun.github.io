@@ -2,256 +2,256 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Violet Ka I Pun</title>
-    <link>https://violetpun.github.io/publication_types/1/</link>
+    <link>https://violet.foldr.org/publication_types/1/</link>
     <description>Recent content in 1 on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://violetpun.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://violet.foldr.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Active Objects with Deterministic Behaviour</title>
-      <link>https://violetpun.github.io/publication/deterministic-active-ifm20/</link>
+      <link>https://violet.foldr.org/publication/deterministic-active-ifm20/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/deterministic-active-ifm20/</guid>
+      <guid>https://violet.foldr.org/publication/deterministic-active-ifm20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refactoring and Active Object Languages</title>
-      <link>https://violetpun.github.io/publication/refa-actobj-isola20/</link>
+      <link>https://violet.foldr.org/publication/refa-actobj-isola20/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/refa-actobj-isola20/</guid>
+      <guid>https://violet.foldr.org/publication/refa-actobj-isola20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptation of IDPT System Based on Patient-Authored Text Data using NLP.</title>
-      <link>https://violetpun.github.io/publication/idpt-cbms20/</link>
+      <link>https://violet.foldr.org/publication/idpt-cbms20/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/idpt-cbms20/</guid>
+      <guid>https://violet.foldr.org/publication/idpt-cbms20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A GraphQL approach to Healthcare Information Exchange with HL7 FHIR</title>
-      <link>https://violetpun.github.io/publication/graphql-icth19/</link>
+      <link>https://violet.foldr.org/publication/graphql-icth19/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/graphql-icth19/</guid>
+      <guid>https://violet.foldr.org/publication/graphql-icth19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From SOS to Asynchronously Communicating Actors</title>
-      <link>https://violetpun.github.io/publication/sos2actors-sefm/</link>
+      <link>https://violet.foldr.org/publication/sos2actors-sefm/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/sos2actors-sefm/</guid>
+      <guid>https://violet.foldr.org/publication/sos2actors-sefm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An architectural design for self-reporting e-health systems</title>
-      <link>https://violetpun.github.io/publication/seh-icse19/</link>
+      <link>https://violet.foldr.org/publication/seh-icse19/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/seh-icse19/</guid>
+      <guid>https://violet.foldr.org/publication/seh-icse19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementing SOS with Active Objects: A Case Study of a Multicore Memory System</title>
-      <link>https://violetpun.github.io/publication/abssim-fase/</link>
+      <link>https://violet.foldr.org/publication/abssim-fase/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/abssim-fase/</guid>
+      <guid>https://violet.foldr.org/publication/abssim-fase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deployment by Construction for Multicore Architectures</title>
-      <link>https://violetpun.github.io/publication/mc-isola/</link>
+      <link>https://violet.foldr.org/publication/mc-isola/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/mc-isola/</guid>
+      <guid>https://violet.foldr.org/publication/mc-isola/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stream-based Dynamic Data Race Detection</title>
-      <link>https://violetpun.github.io/publication/dr-tessla-nik/</link>
+      <link>https://violet.foldr.org/publication/dr-tessla-nik/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/dr-tessla-nik/</guid>
+      <guid>https://violet.foldr.org/publication/dr-tessla-nik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of SLA Compliance in the Cloud – An Automated, Model-based Approach</title>
-      <link>https://violetpun.github.io/publication/sla-compliance-vortex/</link>
+      <link>https://violet.foldr.org/publication/sla-compliance-vortex/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/sla-compliance-vortex/</guid>
+      <guid>https://violet.foldr.org/publication/sla-compliance-vortex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Formal Model of Parallel Execution on Multicore Architectures with Multilevel Caches</title>
-      <link>https://violetpun.github.io/publication/mc-facs/</link>
+      <link>https://violet.foldr.org/publication/mc-facs/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/mc-facs/</guid>
+      <guid>https://violet.foldr.org/publication/mc-facs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A formal model of cloud-deployed software and its application to workflow processing</title>
-      <link>https://violetpun.github.io/publication/modelling-workflow/</link>
+      <link>https://violet.foldr.org/publication/modelling-workflow/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/modelling-workflow/</guid>
+      <guid>https://violet.foldr.org/publication/modelling-workflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
-      <link>https://violetpun.github.io/publication/abstrace-tableaux/</link>
+      <link>https://violet.foldr.org/publication/abstrace-tableaux/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://violetpun.github.io/publication/abstrace-tableaux/</guid>
+      <guid>https://violet.foldr.org/publication/abstrace-tableaux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Flow Analysis for Go</title>
-      <link>https://violetpun.github.io/publication/ifa-go/</link>
+      <link>https://violet.foldr.org/publication/ifa-go/</link>
       <pubDate>Wed, 05 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/ifa-go/</guid>
+      <guid>https://violet.foldr.org/publication/ifa-go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Deployment Decisions for Elastic Services with ABS</title>
-      <link>https://violetpun.github.io/publication/modeling-ifmcloud/</link>
+      <link>https://violet.foldr.org/publication/modeling-ifmcloud/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/modeling-ifmcloud/</guid>
+      <guid>https://violet.foldr.org/publication/modeling-ifmcloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Operational Semantics of Cache Coherent Multicore Architectures</title>
-      <link>https://violetpun.github.io/publication/mc-sac/</link>
+      <link>https://violet.foldr.org/publication/mc-sac/</link>
       <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/mc-sac/</guid>
+      <guid>https://violet.foldr.org/publication/mc-sac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Maude Framework for Cache Coherent Multicore Architectures</title>
-      <link>https://violetpun.github.io/publication/mc-wrla/</link>
+      <link>https://violet.foldr.org/publication/mc-wrla/</link>
       <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/mc-wrla/</guid>
+      <guid>https://violet.foldr.org/publication/mc-wrla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time Complexity of Concurrent Programs – A Technique Based on Behavioural Types –</title>
-      <link>https://violetpun.github.io/publication/time-facs/</link>
+      <link>https://violet.foldr.org/publication/time-facs/</link>
       <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/time-facs/</guid>
+      <guid>https://violet.foldr.org/publication/time-facs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel Objects for Multicores: A Glimpse at the Parallel Language Encore</title>
-      <link>https://violetpun.github.io/publication/encore-sfm/</link>
+      <link>https://violet.foldr.org/publication/encore-sfm/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/encore-sfm/</guid>
+      <guid>https://violet.foldr.org/publication/encore-sfm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect-Polymorphic Behaviour Inference for Deadlock Checking</title>
-      <link>https://violetpun.github.io/publication/deadlocks-effect-sefm/</link>
+      <link>https://violet.foldr.org/publication/deadlocks-effect-sefm/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/deadlocks-effect-sefm/</guid>
+      <guid>https://violet.foldr.org/publication/deadlocks-effect-sefm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Behaviour Inference for Deadlock Checking</title>
-      <link>https://violetpun.github.io/publication/deadlocks-behav-fo/</link>
+      <link>https://violet.foldr.org/publication/deadlocks-behav-fo/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/deadlocks-behav-fo/</guid>
+      <guid>https://violet.foldr.org/publication/deadlocks-behav-fo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deadlock Checking by Data Race Detection</title>
-      <link>https://violetpun.github.io/publication/deadlocks-race-fsen/</link>
+      <link>https://violet.foldr.org/publication/deadlocks-race-fsen/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/deadlocks-race-fsen/</guid>
+      <guid>https://violet.foldr.org/publication/deadlocks-race-fsen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delta-Oriented Monitor Specification</title>
-      <link>https://violetpun.github.io/publication/delta-monitor/</link>
+      <link>https://violet.foldr.org/publication/delta-monitor/</link>
       <pubDate>Sat, 06 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/delta-monitor/</guid>
+      <guid>https://violet.foldr.org/publication/delta-monitor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audit Trail Analysis for Traffic Intensive Web Application</title>
-      <link>https://violetpun.github.io/publication/audit-trail/</link>
+      <link>https://violet.foldr.org/publication/audit-trail/</link>
       <pubDate>Tue, 13 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/audit-trail/</guid>
+      <guid>https://violet.foldr.org/publication/audit-trail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Support for Simulating Traffic Intensive Web Applications</title>
-      <link>https://violetpun.github.io/publication/intensive-traffic/</link>
+      <link>https://violet.foldr.org/publication/intensive-traffic/</link>
       <pubDate>Tue, 09 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/intensive-traffic/</guid>
+      <guid>https://violet.foldr.org/publication/intensive-traffic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pak Pak Serves You: Application on Interactive Dialogue Question Answering</title>
-      <link>https://violetpun.github.io/publication/pakpak/</link>
+      <link>https://violet.foldr.org/publication/pakpak/</link>
       <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/pakpak/</guid>
+      <guid>https://violet.foldr.org/publication/pakpak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research in Interactive Dialogues Question Answering System</title>
-      <link>https://violetpun.github.io/publication/qa-system/</link>
+      <link>https://violet.foldr.org/publication/qa-system/</link>
       <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
       
-      <guid>https://violetpun.github.io/publication/qa-system/</guid>
+      <guid>https://violet.foldr.org/publication/qa-system/</guid>
       <description></description>
     </item>
     
