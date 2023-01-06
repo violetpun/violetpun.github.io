@@ -6,11 +6,29 @@
     <description>Recent content in completed on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/tags/completed/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>INTROMAT: INTROducing Mental health through Adaptive Technology</title>
+      <link>https://violet.foldr.org/project/intromat/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/project/intromat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Refactoring: Runtime Verification beyond Monitoring</title>
+      <link>https://violet.foldr.org/project/refactoring/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/project/refactoring/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COEMS: Continuous Observation of Embedded Multicore Systems</title>

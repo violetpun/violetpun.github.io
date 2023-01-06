@@ -6,11 +6,29 @@
     <description>Recent content in Projects on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CroFlow: Enabling Highly Automated Cross-Organisational Workflow Planning</title>
+      <link>https://violet.foldr.org/project/croflow/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/project/croflow/</guid>
+      <description>Young Talent Project funded by the Research Council of Norway.</description>
+    </item>
+    
+    <item>
+      <title>PiV: Patologi i Vest</title>
+      <link>https://violet.foldr.org/project/piv/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/project/piv/</guid>
+      <description>Pathology services in the Western Norway Health Region &amp;ndash; a centre for applied digitization</description>
+    </item>
     
     <item>
       <title>SLAS: Synchronous Languages meet Asynchronous Semantics</title>
