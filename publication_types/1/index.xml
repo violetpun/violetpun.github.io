@@ -6,11 +6,29 @@
     <description>Recent content in 1 on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>&amp;copy; 2023</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modular Soundness Checking of Feature Model Evolution Plans</title>
+      <link>https://violet.foldr.org/publication/spl-ictac23/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/spl-ictac23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Static Analyser for Resource Sensitive Workflow Models</title>
+      <link>https://violet.foldr.org/publication/rpl-tase23/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/rpl-tase23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Notion of Equivalence for Refactorings with Abstract Execution</title>

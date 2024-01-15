@@ -6,7 +6,7 @@
     <description>Recent content in active on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>&amp;copy; 2023</copyright>
+    <copyright>&amp;copy; 2024</copyright>
     <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/tags/active/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://violet.foldr.org/project/croflow/</guid>
-      <description>Young Talent Project funded by the Research Council of Norway.</description>
+      <description>Young Research Talent Project funded by the Research Council of Norway.</description>
     </item>
     
     <item>
@@ -28,24 +28,6 @@
       
       <guid>https://violet.foldr.org/project/piv/</guid>
       <description>Pathology services in the Western Norway Health Region &amp;ndash; a centre for applied digitization</description>
-    </item>
-    
-    <item>
-      <title>SLAS: Synchronous Languages meet Asynchronous Semantics</title>
-      <link>https://violet.foldr.org/project/slas/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://violet.foldr.org/project/slas/</guid>
-      <description>AURORA mobility programme between Norway and France, partially funded by the Research Council of Norway.</description>
-    </item>
-    
-    <item>
-      <title>SIRIUS: Centre for Scalable Data Access in the Oil and Gas Domain</title>
-      <link>https://violet.foldr.org/project/sirius/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://violet.foldr.org/project/sirius/</guid>
-      <description></description>
     </item>
     
   </channel>

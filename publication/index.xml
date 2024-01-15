@@ -6,11 +6,38 @@
     <description>Recent content in Publications on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>&amp;copy; 2023</copyright>
+    <copyright>&amp;copy; 2024</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modular Soundness Checking of Feature Model Evolution Plans</title>
+      <link>https://violet.foldr.org/publication/spl-ictac23/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/spl-ictac23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of 3rd International Health Data Workshop</title>
+      <link>https://violet.foldr.org/publication/heda23/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/heda23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Static Analyser for Resource Sensitive Workflow Models</title>
+      <link>https://violet.foldr.org/publication/rpl-tase23/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/rpl-tase23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cost Analysis for A Resource Sensitive Workflow Modelling Language</title>
@@ -144,6 +171,15 @@
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://violet.foldr.org/publication/idpt-cbms20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Elements in Internet-Delivered Psychological Treatment Systems: Systematic Review</title>
+      <link>https://violet.foldr.org/publication/idpt-jmir20/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/idpt-jmir20/</guid>
       <description></description>
     </item>
     

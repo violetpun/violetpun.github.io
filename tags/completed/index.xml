@@ -6,11 +6,20 @@
     <description>Recent content in completed on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>&amp;copy; 2023</copyright>
-    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/tags/completed/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SLAS: Synchronous Languages meet Asynchronous Semantics</title>
+      <link>https://violet.foldr.org/project/slas/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/project/slas/</guid>
+      <description>AURORA mobility programme between Norway and France, partially funded by the Research Council of Norway.</description>
+    </item>
     
     <item>
       <title>INTROMAT: INTROducing Mental health through Adaptive Technology</title>
@@ -36,6 +45,15 @@
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://violet.foldr.org/project/coems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIRIUS: Centre for Scalable Data Access in the Oil and Gas Domain</title>
+      <link>https://violet.foldr.org/project/sirius/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/project/sirius/</guid>
       <description></description>
     </item>
     

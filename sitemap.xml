@@ -4,6 +4,73 @@
     
     <url>
     
+      <loc>https://violet.foldr.org/publication_types/1/</loc>
+      <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://violet.foldr.org/publication/spl-ictac23/</loc>
+      <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://violet.foldr.org/publication_types/</loc>
+      <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://violet.foldr.org/</loc>
+      <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://violet.foldr.org/publication_types/7/</loc>
+      <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://violet.foldr.org/publication/heda23/</loc>
+      <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://violet.foldr.org/publication/rpl-tase23/</loc>
+      <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://violet.foldr.org/publication_types/2/</loc>
       <lastmod>2023-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -16,36 +83,6 @@
     
       <loc>https://violet.foldr.org/publication/rpl-scp21/</loc>
       <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://violet.foldr.org/publication_types/</loc>
-      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://violet.foldr.org/</loc>
-      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://violet.foldr.org/publication_types/1/</loc>
-      <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -182,16 +219,6 @@
     
     <url>
     
-      <loc>https://violet.foldr.org/publication_types/7/</loc>
-      <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://violet.foldr.org/publication/ictac20/</loc>
       <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     </url>
@@ -247,8 +274,27 @@
     
     <url>
     
+      <loc>https://violet.foldr.org/publication/idpt-jmir20/</loc>
+      <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://violet.foldr.org/project/slas/</loc>
       <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://violet.foldr.org/tags/completed/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -303,16 +349,6 @@
     
       <loc>https://violet.foldr.org/project/intromat/</loc>
       <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://violet.foldr.org/tags/completed/</loc>
-      <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
