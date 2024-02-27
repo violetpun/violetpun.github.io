@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2024</copyright>
-    <lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
       <link>https://violet.foldr.org/publication/lagc-toplas/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://violet.foldr.org/publication/lagc-toplas/</guid>
       <description></description>

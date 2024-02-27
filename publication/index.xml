@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
+      <link>https://violet.foldr.org/publication/lagc-toplas/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/lagc-toplas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Enforced Dependencies for Active Objects</title>
       <link>https://violet.foldr.org/publication/dp-aol/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
@@ -22,11 +31,11 @@
     </item>
     
     <item>
-      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
-      <link>https://violet.foldr.org/publication/lagc-toplas/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <title>Preface for the special issue on the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020)</title>
+      <link>https://violet.foldr.org/publication/tcs/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://violet.foldr.org/publication/lagc-toplas/</guid>
+      <guid>https://violet.foldr.org/publication/tcs/</guid>
       <description></description>
     </item>
     
