@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Enforced Dependencies for Active Objects</title>
+      <link>https://violet.foldr.org/publication/dp-aol/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/dp-aol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
+      <link>https://violet.foldr.org/publication/lagc-toplas/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/lagc-toplas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modular Soundness Checking of Feature Model Evolution Plans</title>
       <link>https://violet.foldr.org/publication/spl-ictac23/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
