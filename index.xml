@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2024</copyright>
-    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Proving Correctness of Parallel Implementations of Transition System Models</title>
+      <link>https://violet.foldr.org/publication/tsm-correctness-toplas/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/tsm-correctness-toplas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost Analysis for A Resource Sensitive Workflow Modelling Language</title>
+      <link>https://violet.foldr.org/publication/rpl-coordination24/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/rpl-coordination24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
@@ -123,24 +141,6 @@
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://violet.foldr.org/publication/privacy-anonymization-embc21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monitoring Motor Activity Data for Detecting Patients’ Depression Using Data Augmentation and Privacy-Preserving Distributed Learning.</title>
-      <link>https://violet.foldr.org/publication/privacy-embc21/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://violet.foldr.org/publication/privacy-embc21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware-Assisted Online Data Race Detection</title>
-      <link>https://violet.foldr.org/publication/dr-isola21/</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://violet.foldr.org/publication/dr-isola21/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Violet Ka I Pun</title>
+    <link>https://violet.foldr.org/publication_types/6/</link>
+    <description>Recent content in 6 on Violet Ka I Pun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://violet.foldr.org/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enforced Dependencies for Active Objects</title>
+      <link>https://violet.foldr.org/publication/dp-aol/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/dp-aol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SymPaths: Symbolic Execution Meets Partial Order Reduction</title>
+      <link>https://violet.foldr.org/publication/sympath-key/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/sympath-key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting Deadlines, Elastically</title>
+      <link>https://violet.foldr.org/publication/meeting-deadlines/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/meeting-deadlines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

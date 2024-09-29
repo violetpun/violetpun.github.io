@@ -1,32 +1,146 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Violet Ka I Pun</title>
-    <link>https://violet.foldr.org/tags/</link>
-    <description>Recent content in Tags on Violet Ka I Pun</description>
+    <title>Violet Ka I Pun on Violet Ka I Pun</title>
+    <link>https://violet.foldr.org/</link>
+    <description>Recent content in Violet Ka I Pun on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2024</copyright>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://violet.foldr.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>active</title>
-      <link>https://violet.foldr.org/tags/active/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <title>Proving Correctness of Parallel Implementations of Transition System Models</title>
+      <link>https://violet.foldr.org/publication/tsm-correctness-toplas/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://violet.foldr.org/tags/active/</guid>
+      <guid>https://violet.foldr.org/publication/tsm-correctness-toplas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>completed</title>
-      <link>https://violet.foldr.org/tags/completed/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Cost Analysis for A Resource Sensitive Workflow Modelling Language</title>
+      <link>https://violet.foldr.org/publication/rpl-coordination24/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://violet.foldr.org/tags/completed/</guid>
+      <guid>https://violet.foldr.org/publication/rpl-coordination24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally Abstract, Globally Concrete Semantics of Concurrent Programming Languages</title>
+      <link>https://violet.foldr.org/publication/lagc-toplas/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/lagc-toplas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enforced Dependencies for Active Objects</title>
+      <link>https://violet.foldr.org/publication/dp-aol/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/dp-aol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preface for the special issue on the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020)</title>
+      <link>https://violet.foldr.org/publication/tcs/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Soundness Checking of Feature Model Evolution Plans</title>
+      <link>https://violet.foldr.org/publication/spl-ictac23/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/spl-ictac23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of 3rd International Health Data Workshop</title>
+      <link>https://violet.foldr.org/publication/heda23/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/heda23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Static Analyser for Resource Sensitive Workflow Models</title>
+      <link>https://violet.foldr.org/publication/rpl-tase23/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/rpl-tase23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost Analysis for A Resource Sensitive Workflow Modelling Language</title>
+      <link>https://violet.foldr.org/publication/rpl-scp21/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/rpl-scp21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Notion of Equivalence for Refactorings with Abstract Execution</title>
+      <link>https://violet.foldr.org/publication/refa-refinity-isola22/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/refa-refinity-isola22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Can See Clearly Now: Clairvoyant Assertions for Deadlock Checking</title>
+      <link>https://violet.foldr.org/publication/refa-assertion-rh60/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/refa-assertion-rh60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data</title>
+      <link>https://violet.foldr.org/publication/privacy-ieee22/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/privacy-ieee22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CroFlow: Enabling Highly Automated Cross-Organisational Workflow Planning</title>
+      <link>https://violet.foldr.org/project/croflow/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/project/croflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost Analysis for an Actor-Based Workflow Modelling Language.</title>
+      <link>https://violet.foldr.org/publication/rpl-sbmf21/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/rpl-sbmf21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity-Aware Anonymization for Structured Health Data.</title>
+      <link>https://violet.foldr.org/publication/privacy-anonymization-embc21/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/privacy-anonymization-embc21/</guid>
       <description></description>
     </item>
     

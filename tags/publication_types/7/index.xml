@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Violet Ka I Pun</title>
+    <link>https://violet.foldr.org/publication_types/7/</link>
+    <description>Recent content in 7 on Violet Ka I Pun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://violet.foldr.org/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preface for the special issue on the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020)</title>
+      <link>https://violet.foldr.org/publication/tcs/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of 3rd International Health Data Workshop</title>
+      <link>https://violet.foldr.org/publication/heda23/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/heda23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of 17th International Colloquium on Theoretical Aspects of Computing</title>
+      <link>https://violet.foldr.org/publication/ictac20/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/ictac20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

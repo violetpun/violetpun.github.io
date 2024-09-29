@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Violet Ka I Pun</title>
+    <link>https://violet.foldr.org/home/</link>
+    <description>Recent content in Homes on Violet Ka I Pun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2024</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://violet.foldr.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://violet.foldr.org/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/home/about/</guid>
+      <description>Biography Violet Ka I Pun is currently associate professor in Software Engineering research group, at Western Norway University of Applied Sciences. Before that, she was a postdoctoral researcher in the research group Precise Modeling and Analysis at the University of Oslo and a senior lecturer at the University of Bergen. She received her PhD degree in Computer Science at the University of Oslo, and had her earlier education at the University of Macau.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://violet.foldr.org/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://violet.foldr.org/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://violet.foldr.org/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/home/teaching/</guid>
+      <description>Western Norway University of Applied Sciences
+&amp;nbsp;&amp;nbsp;&amp;nbsp;DAT103: Computers and Operating Systems
+&amp;nbsp;&amp;nbsp;&amp;nbsp;DAT151: Database and Unix System Administration
+&amp;nbsp;&amp;nbsp;&amp;nbsp;DAT191: Bachelor Thesis (Previously DAT190)
+University of Bergen
+&amp;nbsp;&amp;nbsp;&amp;nbsp;INF214: Concurrent Programming
+&amp;nbsp;&amp;nbsp;&amp;nbsp;INF122: Functional Programming
+Universiyt of Oslo
+&amp;nbsp;&amp;nbsp;&amp;nbsp;INF4140: Models of Concurrency
+&amp;nbsp;&amp;nbsp;&amp;nbsp;INF2220: Algorithms and data structures
+University of Macau
+&amp;nbsp;&amp;nbsp;&amp;nbsp;ECSS021: Computer Literacy</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://violet.foldr.org/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
