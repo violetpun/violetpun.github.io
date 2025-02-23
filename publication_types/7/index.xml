@@ -6,11 +6,20 @@
     <description>Recent content in 7 on Violet Ka I Pun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>&amp;copy; 2024</copyright>
-    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2025</copyright>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Proceedings of 17th Interaction and Concurrency Experience</title>
+      <link>https://violet.foldr.org/publication/ice24/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/ice24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Preface for the special issue on the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020)</title>
