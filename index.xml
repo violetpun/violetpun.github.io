@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2025</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EasyRPL: A web-based tool for modelling and analysis of cross-organisational workflows</title>
+      <link>https://violet.foldr.org/publication/rpl-easyrpl/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/rpl-easyrpl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proceedings of 17th Interaction and Concurrency Experience</title>
@@ -132,15 +141,6 @@
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://violet.foldr.org/publication/privacy-ieee22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CroFlow: Enabling Highly Automated Cross-Organisational Workflow Planning</title>
-      <link>https://violet.foldr.org/project/croflow/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://violet.foldr.org/project/croflow/</guid>
       <description></description>
     </item>
     
