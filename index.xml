@@ -6,8 +6,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2025</copyright>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fair Termination for Resource-Aware Active Objects</title>
+      <link>https://violet.foldr.org/publication/rats-aplas25/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/rats-aplas25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Soundness Checking of Feature Model Evolution Plans</title>
+      <link>https://violet.foldr.org/publication/fmep-tcs25/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/fmep-tcs25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of 18th Interaction and Concurrency Experience</title>
+      <link>https://violet.foldr.org/publication/ice25/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/ice25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EasyRPL: A web-based tool for modelling and analysis of cross-organisational workflows</title>
@@ -83,10 +110,10 @@
     
     <item>
       <title>Modular Soundness Checking of Feature Model Evolution Plans</title>
-      <link>https://violet.foldr.org/publication/spl-ictac23/</link>
+      <link>https://violet.foldr.org/publication/fmep-ictac23/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://violet.foldr.org/publication/spl-ictac23/</guid>
+      <guid>https://violet.foldr.org/publication/fmep-ictac23/</guid>
       <description></description>
     </item>
     
@@ -114,33 +141,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://violet.foldr.org/publication/rpl-scp21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Notion of Equivalence for Refactorings with Abstract Execution</title>
-      <link>https://violet.foldr.org/publication/refa-refinity-isola22/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://violet.foldr.org/publication/refa-refinity-isola22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I Can See Clearly Now: Clairvoyant Assertions for Deadlock Checking</title>
-      <link>https://violet.foldr.org/publication/refa-assertion-rh60/</link>
-      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://violet.foldr.org/publication/refa-assertion-rh60/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data</title>
-      <link>https://violet.foldr.org/publication/privacy-ieee22/</link>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://violet.foldr.org/publication/privacy-ieee22/</guid>
       <description></description>
     </item>
     

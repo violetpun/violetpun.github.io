@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2025</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Proceedings of 18th Interaction and Concurrency Experience</title>
+      <link>https://violet.foldr.org/publication/ice25/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/ice25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proceedings of 17th Interaction and Concurrency Experience</title>

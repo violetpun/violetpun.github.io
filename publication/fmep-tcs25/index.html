@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en-uk">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.56.0" />
+  <meta name="author" content="Violet Ka I Pun">
+
+  
+  
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="Feature model evolution plans (FMEPs) describe how feature models for software product lines (SPLs) evolve over time. While different feature models can exist for different points in time over the lifetime of the product line, an FMEP describes how to compute a feature model for a given time point. SPLs capitalise on the variability and reusability of the software through combining optional and mandatory features. As business requirements change over time, FMEPs should support intermediate update. A plan hence contains updates to an initial model by adding, deleting, moving or changing elements at different points in time, in line with the evolving business requirements on the SPL, potentially affecting feature models that should be derived in the future from the plan.&lt;br /&gt;A recurring challenge in maintaining FMEPs is that updates may lead to inconsistent intermediate feature models, most notably so-called paradoxes. A paradox may not materialise at the first point in time an update on the plan is performed to obtain a particular feature model, but may only in combination with a later modification prescribed by the plan create a structurally invalid model. Correspondingly, a single modification to a plan may require multiple checks over the liftetime of the affected elements to rule out paradoxes.&lt;br /&gt;Current approaches require the analysis from the point in time an update is applied to an FMEP throughout the entire lifetime of the plan. In this paper, we define a so-called interval-based feature model (IBFM) to represent FMEPs, with a precise definition of spatial and temporal scopes that narrow the time interval and the sub-models that an update can affect. We propose a rule system for updating IBFMs, and also prove the soundness of the proposed rules and show their modularity, i.e., that each rule operates strictly within its temporal and spatial scopes. We have conducted a detailed evaluation on our modular approach and present the experimental results, which show that we outperform an existing linear approach.">
+
+  
+  <link rel="alternate" hreflang="en-uk" href="https://violet.foldr.org/publication/fmep-tcs25/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+  
+  
+  
+    
+  
+  
+    
+    
+      
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+      
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/styles.css">
+  
+  <link rel="stylesheet" href="/css/custom.css">
+  
+
+  
+
+  
+  <link rel="alternate" href="https://violet.foldr.org/index.xml" type="application/rss+xml" title="Violet Ka I Pun">
+  <link rel="feed" href="https://violet.foldr.org/index.xml" type="application/rss+xml" title="Violet Ka I Pun">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://violet.foldr.org/publication/fmep-tcs25/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Violet Ka I Pun">
+  <meta property="og:url" content="https://violet.foldr.org/publication/fmep-tcs25/">
+  <meta property="og:title" content="Modular Soundness Checking of Feature Model Evolution Plans | Violet Ka I Pun">
+  <meta property="og:description" content="Feature model evolution plans (FMEPs) describe how feature models for software product lines (SPLs) evolve over time. While different feature models can exist for different points in time over the lifetime of the product line, an FMEP describes how to compute a feature model for a given time point. SPLs capitalise on the variability and reusability of the software through combining optional and mandatory features. As business requirements change over time, FMEPs should support intermediate update. A plan hence contains updates to an initial model by adding, deleting, moving or changing elements at different points in time, in line with the evolving business requirements on the SPL, potentially affecting feature models that should be derived in the future from the plan.&lt;br /&gt;A recurring challenge in maintaining FMEPs is that updates may lead to inconsistent intermediate feature models, most notably so-called paradoxes. A paradox may not materialise at the first point in time an update on the plan is performed to obtain a particular feature model, but may only in combination with a later modification prescribed by the plan create a structurally invalid model. Correspondingly, a single modification to a plan may require multiple checks over the liftetime of the affected elements to rule out paradoxes.&lt;br /&gt;Current approaches require the analysis from the point in time an update is applied to an FMEP throughout the entire lifetime of the plan. In this paper, we define a so-called interval-based feature model (IBFM) to represent FMEPs, with a precise definition of spatial and temporal scopes that narrow the time interval and the sub-models that an update can affect. We propose a rule system for updating IBFMs, and also prove the soundness of the proposed rules and show their modularity, i.e., that each rule operates strictly within its temporal and spatial scopes. We have conducted a detailed evaluation on our modular approach and present the experimental results, which show that we outperform an existing linear approach.">
+  <meta property="og:locale" content="en-uk">
+  
+  <meta property="article:published_time" content="2025-08-23T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2025-08-23T00:00:00&#43;00:00">
+  
+
+  
+
+  <title>Modular Soundness Checking of Feature Model Evolution Plans | Violet Ka I Pun</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/">Violet Ka I Pun</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">Modular Soundness Checking of Feature Model Evolution Plans</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      Crystal Chang Din, Charaf Eddine Dridi, Ida Sandberg Motzfeldt, Violet Ka I Pun, Volker Stolz, Ingrid Chieh Yu
+      
+    </span>
+    <span class="pull-right">
+      
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+    <li>
+      <a class="email"
+         href="mailto:Violet.Ka.I.Pun@hvl.no?subject=Modular%20Soundness%20Checking%20of%20Feature%20Model%20Evolution%20Plans&amp;body=https%3a%2f%2fviolet.foldr.org%2fpublication%2ffmep-tcs25%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+    </span>
+
+    
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Feature model evolution plans (FMEPs) describe how feature models for software product lines (SPLs) evolve over time. While different feature models can exist for different points in time over the lifetime of the product line, an FMEP describes how to compute a feature model for a given time point. SPLs capitalise on the variability and reusability of the software through combining optional and mandatory features. As business requirements change over time, FMEPs should support intermediate update. A plan hence contains updates to an initial model by adding, deleting, moving or changing elements at different points in time, in line with the evolving business requirements on the SPL, potentially affecting feature models that should be derived in the future from the plan.<br />A recurring challenge in maintaining FMEPs is that updates may lead to inconsistent intermediate feature models, most notably so-called paradoxes. A paradox may not materialise at the first point in time an update on the plan is performed to obtain a particular feature model, but may only in combination with a later modification prescribed by the plan create a structurally invalid model. Correspondingly, a single modification to a plan may require multiple checks over the liftetime of the affected elements to rule out paradoxes.<br />Current approaches require the analysis from the point in time an update is applied to an FMEP throughout the entire lifetime of the plan. In this paper, we define a so-called interval-based feature model (IBFM) to represent FMEPs, with a precise definition of spatial and temporal scopes that narrow the time interval and the sub-models that an update can affect. We propose a rule system for updating IBFMs, and also prove the soundness of the proposed rules and show their modularity, i.e., that each rule operates strictly within its temporal and spatial scopes. We have conducted a detailed evaluation on our modular approach and present the experimental results, which show that we outperform an existing linear approach.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+          <div class="col-xs-12 col-sm-9">
+            
+            <a href="/publication/#2">
+              Journal articles
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+          <div class="col-xs-12 col-sm-9">Theoretical Computer Science</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            August, 2025
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://doi.org/10.1016/j.tcs.2025.115451" target="_blank" rel="noopener">
+  DOI
+</a>
+
+<a class="btn btn-primary btn-outline" href="https://croflow.github.io/" target="_blank" rel="noopener">
+  CroFlow
+</a>
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+  </div>
+</div>
+
+
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2025 &middot; 
+         Violet Ka I Pun
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
+
