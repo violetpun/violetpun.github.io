@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="Worldwide, public healthcare is challenged to deliver consistent and cost-efficient services. The cost of healthcare is increasing primarily due to growing populations and more expensive treatment. Health facilities in many countries are reaching their full operational capacity, and their resources are less than what is required to deliver the expected quality of care. Under these circumstances, ICT has a major role to play in mitigating the growing need for hospital care. In this paper, we present a cloud-based interoperable architecture built on the top of Service-Oriented Architecture (SOA) for Internet-based treatment where patients can directly interact with underlying healthcare systems such as Electronic Health Records (EHRs). Based on this architecture, we also present a prototype for screening and monitoring of mental and neurological health morbidities. The proposed solution is based on the healthcare interoperability standard, HL7 FHIR, that enables healthcare providers to assess and monitor patients condition in a secure environment.">
+  <meta name="description" content="This paper introduces a novel proof technique to show that parallel or distributed programs exhibit confluent behaviour, even when the execution of these programs is inherently non-deterministic. The proposed method allows us to prove the confluence of programs for which standard properties such as strong confluence or commutativity of operations do not hold. Our technique builds on a method to prove the confluence of rewrite systems by de Bruijn, which we first adapt and formalise in Rocq. This method can be seen as a specialised induction principle for proving confluence. The paper further considers how this induction principle can be used in the context of programming languages. We show how the proof method can be instantiated to establish confluence conditions for programs in a small Actor-like programming language and demonstrate the application of the method to prove the confluence of a class of programs that cannot be proven to have deterministic behaviour by standard techniques.">
 
   
-  <link rel="alternate" hreflang="en-uk" href="https://violet.foldr.org/publication/seh-icse19/">
+  <link rel="alternate" hreflang="en-uk" href="https://violet.foldr.org/publication/layered-conflu-cpp26/">
 
   
 
@@ -71,24 +71,24 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://violet.foldr.org/publication/seh-icse19/">
+  <link rel="canonical" href="https://violet.foldr.org/publication/layered-conflu-cpp26/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Violet Ka I Pun">
-  <meta property="og:url" content="https://violet.foldr.org/publication/seh-icse19/">
-  <meta property="og:title" content="An architectural design for self-reporting e-health systems | Violet Ka I Pun">
-  <meta property="og:description" content="Worldwide, public healthcare is challenged to deliver consistent and cost-efficient services. The cost of healthcare is increasing primarily due to growing populations and more expensive treatment. Health facilities in many countries are reaching their full operational capacity, and their resources are less than what is required to deliver the expected quality of care. Under these circumstances, ICT has a major role to play in mitigating the growing need for hospital care. In this paper, we present a cloud-based interoperable architecture built on the top of Service-Oriented Architecture (SOA) for Internet-based treatment where patients can directly interact with underlying healthcare systems such as Electronic Health Records (EHRs). Based on this architecture, we also present a prototype for screening and monitoring of mental and neurological health morbidities. The proposed solution is based on the healthcare interoperability standard, HL7 FHIR, that enables healthcare providers to assess and monitor patients condition in a secure environment.">
+  <meta property="og:url" content="https://violet.foldr.org/publication/layered-conflu-cpp26/">
+  <meta property="og:title" content="Layers of Confluence for Actors | Violet Ka I Pun">
+  <meta property="og:description" content="This paper introduces a novel proof technique to show that parallel or distributed programs exhibit confluent behaviour, even when the execution of these programs is inherently non-deterministic. The proposed method allows us to prove the confluence of programs for which standard properties such as strong confluence or commutativity of operations do not hold. Our technique builds on a method to prove the confluence of rewrite systems by de Bruijn, which we first adapt and formalise in Rocq. This method can be seen as a specialised induction principle for proving confluence. The paper further considers how this induction principle can be used in the context of programming languages. We show how the proof method can be instantiated to establish confluence conditions for programs in a small Actor-like programming language and demonstrate the application of the method to prove the confluence of a class of programs that cannot be proven to have deterministic behaviour by standard techniques.">
   <meta property="og:locale" content="en-uk">
   
-  <meta property="article:published_time" content="2019-05-27T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2026-01-08T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-05-27T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2026-01-08T00:00:00&#43;00:00">
   
 
-  <title>An architectural design for self-reporting e-health systems | Violet Ka I Pun</title>
+  
+
+  <title>Layers of Confluence for Actors | Violet Ka I Pun</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -227,10 +227,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">An architectural design for self-reporting e-health systems</h1>
+    <h1 itemprop="name">Layers of Confluence for Actors</h1>
     <span class="pub-authors" itemprop="author">
       
-      Suresh Kumar Mukhiya, Fazle Rabbi, Ka I Pun, Yngve Lamo
+      Ludovic Henrio, Einar Broch Johnsen, Åsmund Aqissiaq Arild Kløvstad, Violet Ka I Pun, Yannick Zakowski
       
     </span>
     <span class="pull-right">
@@ -240,7 +240,7 @@
     
     <li>
       <a class="email"
-         href="mailto:Violet.Ka.I.Pun@hvl.no?subject=An%20architectural%20design%20for%20self-reporting%20e-health%20systems&amp;body=https%3a%2f%2fviolet.foldr.org%2fpublication%2fseh-icse19%2f">
+         href="mailto:Violet.Ka.I.Pun@hvl.no?subject=Layers%20of%20Confluence%20for%20Actors&amp;body=https%3a%2f%2fviolet.foldr.org%2fpublication%2flayered-conflu-cpp26%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -254,7 +254,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Worldwide, public healthcare is challenged to deliver consistent and cost-efficient services. The cost of healthcare is increasing primarily due to growing populations and more expensive treatment. Health facilities in many countries are reaching their full operational capacity, and their resources are less than what is required to deliver the expected quality of care. Under these circumstances, ICT has a major role to play in mitigating the growing need for hospital care. In this paper, we present a cloud-based interoperable architecture built on the top of Service-Oriented Architecture (SOA) for Internet-based treatment where patients can directly interact with underlying healthcare systems such as Electronic Health Records (EHRs). Based on this architecture, we also present a prototype for screening and monitoring of mental and neurological health morbidities. The proposed solution is based on the healthcare interoperability standard, HL7 FHIR, that enables healthcare providers to assess and monitor patients condition in a secure environment.</p>
+    <p class="pub-abstract" itemprop="text">This paper introduces a novel proof technique to show that parallel or distributed programs exhibit confluent behaviour, even when the execution of these programs is inherently non-deterministic. The proposed method allows us to prove the confluence of programs for which standard properties such as strong confluence or commutativity of operations do not hold. Our technique builds on a method to prove the confluence of rewrite systems by de Bruijn, which we first adapt and formalise in Rocq. This method can be seen as a specialised induction principle for proving confluence. The paper further considers how this induction principle can be used in the context of programming languages. We show how the proof method can be instantiated to establish confluence conditions for programs in a small Actor-like programming language and demonstrate the application of the method to prove the confluence of a class of programs that cannot be proven to have deterministic behaviour by standard techniques.</p>
     
 
     
@@ -283,7 +283,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Proceedings of the 1st International Workshop on Software Engineering for Healthcare</div>
+          <div class="col-xs-12 col-sm-9">Proceedings of the 15th ACM SIGPLAN International Conference on Certified Programs and Proof</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -297,7 +297,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            May, 2019
+            January, 2026
           </div>
         </div>
       </div>
@@ -330,16 +330,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://ieeexplore.ieee.org/document/8823897" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://doi.org/10.1145/3779031.3779104" target="_blank" rel="noopener">
   DOI
 </a>
 
-<a class="btn btn-primary btn-outline" href="https://www.helse-bergen.no/avdelinger/psykisk-helsevern/intromat" target="_blank" rel="noopener">
-  INTROMAT
-</a>
-
-<a class="btn btn-primary btn-outline" href="http://sirius-labs.no/" target="_blank" rel="noopener">
-  SIRIUS
+<a class="btn btn-primary btn-outline" href="https://croflow.github.io/" target="_blank" rel="noopener">
+  CroFlow
 </a>
 
 
