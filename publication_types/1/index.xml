@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2026</copyright>
-    <lastBuildDate>Thu, 08 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://violet.foldr.org/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EasyRPL: A web-based tool for modelling and analysis of cross-organisational workflows</title>
+      <link>https://violet.foldr.org/publication/rpl-easyrpl/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/rpl-easyrpl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty-Aware DevOps for Cyber-Physical Systems and Runtime Verification</title>
+      <link>https://violet.foldr.org/publication/devops4cpsrv/</link>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://violet.foldr.org/publication/devops4cpsrv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Layers of Confluence for Actors</title>
@@ -18,15 +36,6 @@
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>https://violet.foldr.org/publication/layered-conflu-cpp26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EasyRPL: A web-based tool for modelling and analysis of cross-organisational workflows</title>
-      <link>https://violet.foldr.org/publication/rpl-easyrpl/</link>
-      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://violet.foldr.org/publication/rpl-easyrpl/</guid>
       <description></description>
     </item>
     
